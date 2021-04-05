@@ -1,4 +1,4 @@
-# shopping-cart
+# Shopping cart
 
 Shopping cart sample application has been developed just for demonstrate prototype. enjoy it! :)
 
